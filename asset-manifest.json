@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextTransform/static/css/main.3bf8b339.css",
+    "main.js": "/TextTransform/static/js/main.20578cf8.js",
+    "index.html": "/TextTransform/index.html",
+    "main.3bf8b339.css.map": "/TextTransform/static/css/main.3bf8b339.css.map",
+    "main.20578cf8.js.map": "/TextTransform/static/js/main.20578cf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf8b339.css",
+    "static/js/main.20578cf8.js"
+  ]
+}
