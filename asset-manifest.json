@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TextTransform/static/css/main.3f318e85.css",
-    "main.js": "/TextTransform/static/js/main.1cfb17df.js",
+    "main.css": "/TextTransform/static/css/main.2dff10a1.css",
+    "main.js": "/TextTransform/static/js/main.8d2dff47.js",
     "index.html": "/TextTransform/index.html",
-    "main.3f318e85.css.map": "/TextTransform/static/css/main.3f318e85.css.map",
-    "main.1cfb17df.js.map": "/TextTransform/static/js/main.1cfb17df.js.map"
+    "main.2dff10a1.css.map": "/TextTransform/static/css/main.2dff10a1.css.map",
+    "main.8d2dff47.js.map": "/TextTransform/static/js/main.8d2dff47.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f318e85.css",
-    "static/js/main.1cfb17df.js"
+    "static/css/main.2dff10a1.css",
+    "static/js/main.8d2dff47.js"
   ]
 }
