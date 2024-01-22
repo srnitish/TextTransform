@@ -7,8 +7,6 @@ import Footer from './Components/Footer';
 
 function App() {
 
-  const [mode, setMode] = useState("black");
-
   const [alert, setAlert] = useState(null);
   const showAlert = (message, type) =>{
     setAlert({
@@ -20,6 +18,7 @@ function App() {
     },2000)
   }
 
+  const [mode, setMode] = useState("black");
   const switchMode = () =>{
     if(mode === "black"){
       setMode("white");
